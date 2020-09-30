@@ -1,2 +1,3 @@
-Primer proyecto de mongoDB
-subiéndolo a GitHub
+# Primer proyecto de mongoDB
+subiéndolo a **GitHub**
+creando el archivo *README.md*
